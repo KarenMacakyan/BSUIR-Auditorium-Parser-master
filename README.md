@@ -9,9 +9,6 @@
 </p>
 </p>
 
-## Version for users of the social network vk.com [link]
-(https://vk.com/free_auds_bsuir)
- 
 ## About the program
 The application is looking for free auditoriums in the need BSUIR building, based on the group schedule. To increase the speed of work, the application saves schedules in the database. It is recommended as often as possible (at least at the beginning of each semester) to update the database in the application (the update takes about 5 minutes)
 
@@ -53,5 +50,4 @@ python app.py
 python app.py
 ```
 
-![Screen](https://i.imgur.com/FBdIRrW.png)
 
